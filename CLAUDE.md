@@ -6,6 +6,8 @@
 - **Type**: Next.js lead generation website for immigration consulting
 - **Primary Goal**: High-converting, SEO-optimized lead capture system
 - **Target Keywords**: green card lottery, DV lottery application, diversity visa lottery, USA immigration lottery
+- **GitHub Repository**: https://github.com/Amir8914/green-card.git
+- **Owner**: Amir8914
 
 ## Tech Stack (Authoritative - Do Not Change)
 - **Framework**: Next.js 14+ (App Router only)
